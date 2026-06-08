@@ -1,8 +1,7 @@
 🌦️ Weather App
 A modern weather application built using React + Vite that fetches real-time weather data using the OpenWeather API.
 
-🚀 Live Demo
-🔗 myweather26.netlify.app
+🚀 Live Demo: https://myweather26.netlify.app/
 
 🛠️ Tech Stack
 React
